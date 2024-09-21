@@ -575,8 +575,8 @@ nav {
 }
 
 .news__container .section__header {
-    font-size: 2.5rem;
-    line-height: 1.2;
+    font-size: 2.2rem;
+    line-height: 1;
     letter-spacing: -2px;
     color: var(--white);
     text-align: center;
@@ -611,7 +611,7 @@ nav {
 
 #contact .copyright {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-family: var(--header-font);
     color: white;
 }
@@ -763,3 +763,26 @@ nav {
         padding: 4rem;
     }
 }
+
+ /* minimum media query */
+ @media(width < 400px){
+    #home h1{
+        font-size: 3.8rem;
+    }
+    .range__details h2{
+        font-size: 2.5rem;
+    }
+    .select__info__card>span{
+        margin-bottom: 1rem;
+        padding: 5px 10px;
+        font-size: 2.2rem;   
+    }
+    .select__info__card h4 {
+        font-size: 0.7rem;
+    }
+    #contact{
+        margin-bottom: 45px;
+        height: 500px;
+        width:100%;
+    }
+ }

@@ -765,9 +765,12 @@ nav {
 }
 
  /* minimum media query */
- @media(width < 400px){
+ @media(width < 560px){
     #home h1{
-        font-size: 3.8rem;
+        font-size: 3rem;
+    }
+    .section__header{
+        font-size: 2.6rem;
     }
     .range__details h2{
         font-size: 2.5rem;
@@ -781,8 +784,7 @@ nav {
         font-size: 0.7rem;
     }
     #contact{
-        margin-bottom: 45px;
-        height: 500px;
+        height: 420px;
         width:100%;
     }
  }

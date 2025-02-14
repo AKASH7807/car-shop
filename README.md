@@ -3,18 +3,20 @@
 - An efficient and user-friendly Car Rental Shop application that empowers you to browse, book, and manage rental cars effortlessly. Built with HTML, CSS, and JavaScript, this project focuses on modern design aesthetics, responsiveness, and engaging animations, allowing users to access their rental management system from any device.
 
 **Live Demo**
+
 Explore the live application at the following link: https://akash7807.github.io/car-shop/
 
 **Features**
-Car Browsing: Easily view available rental cars with detailed descriptions, features, and pricing for optimal user experience.
 
-Responsive Design: Fully responsive layout that adapts seamlessly to mobile and desktop views, ensuring a consistent experience on all devices.
+- Car Browsing: Easily view available rental cars with detailed descriptions, features, and pricing for optimal user experience.
 
-Booking Management: Effortlessly reserve, modify, or cancel your car bookings anytime, with real-time availability updates.
+- Responsive Design: Fully responsive layout that adapts seamlessly to mobile and desktop views, ensuring a consistent experience on all devices.
 
-Engaging Animations: Utilize ScrollReveal.js for smooth and captivating animations that enrich user interaction and make the browsing experience visually appealing.
+- Booking Management: Effortlessly reserve, modify, or cancel your car bookings anytime, with real-time availability updates.
 
-User-Friendly Interface: A modern, clean design that simplifies navigation and enhances the overall rental experience.
+- Engaging Animations: Utilize ScrollReveal.js for smooth and captivating animations that enrich user interaction and make the browsing experience visually appealing.
+
+- User-Friendly Interface: A modern, clean design that simplifies navigation and enhances the overall rental experience.
 
 **Technologies Used**
 
